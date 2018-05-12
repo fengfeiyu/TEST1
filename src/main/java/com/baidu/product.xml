@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+
+
+    <bean id="benchi" class="com.baidu.BenChi"></bean>
+    <bean id="dazhong" class="com.baidu.Dazhong"></bean>
+
+</beans>
